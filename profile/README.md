@@ -1,6 +1,12 @@
 # Fenix Software Labs
 
-Siamo uno studio software di Roma. Con **ByFenix** riuniamo in un’unica app i servizi che le aziende usano ogni giorno. Con **Ceramic Studio** portiamo la progettazione 3D al banco dello showroom, dove rivenditore e cliente scelgono insieme come arredare un bagno.
+[![Fenix Software Labs · Software su misura](https://raw.githubusercontent.com/FenixSoftwareLabs/.github/main/profile/assets/software-su-misura.jpg)](https://fenixsoftwarelabs.com/contact)
+
+Siamo una **software house di Roma**. Progettiamo e sviluppiamo software su misura per le aziende. Realizziamo applicazioni web e mobile, gestionali e integrazioni tra gli strumenti che le persone usano ogni giorno.
+
+Partiamo da chi farà il lavoro. Se un ordine passa dal commerciale al magazzino attraverso email e fogli di calcolo, ricostruiamo quei passaggi insieme ai due reparti. Su questa base progettiamo il flusso, sviluppiamo l’applicazione e la colleghiamo ai sistemi già in uso. [Parlaci del tuo progetto](https://fenixsoftwarelabs.com/contact)
+
+## I nostri prodotti
 
 [![ByFenix · Un’unica app per i servizi aziendali](https://raw.githubusercontent.com/FenixSoftwareLabs/.github/main/profile/assets/byfenix.jpg)](https://byfenix.it/)
 
